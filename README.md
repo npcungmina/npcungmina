@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Welcome to my Github!
 
-<!--
-**npcungmina/npcungmina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💞️ Introduction
+Hello everyone! I'm Luong Ngoc Phuong, a newcomer in the field of Artificial Intelligence and Machine Learning, seeking opportunities to learn and grow in this industry. Despite being at the beginning of my journey, my passion for Data Science and AI technology continues to grow, and I'm committed to learning every day to become an expert in the future.
 
-Here are some ideas to get you started:
+## 🌱 Education and Skills
+- **Education**: Currently, I am a student studying Computer Science at Ton Duc Thang University
+- **Skills**: I have a basic understanding of Python programming and have started exploring model in Machine Learning, Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Personal Projects
+- **IMDb Reviews Classification**
+- **CNN Articles Classification**
+- Research on Overfitting and Optimization of Machine Learning models
+
+## ⚡ Goals
+My goal is to become an expert in the field of AI and Machine Learning. I am seeking internship opportunities or real-world projects to apply my knowledge and skills and learn from experienced professionals in the industry.
+
+## 📫 Contact
+- **Email**: viptsubasa123@gmail.com
+- **LinkedIn**:
+
+---
+
+Created with ❤️ by Luong Ngoc Phuong
